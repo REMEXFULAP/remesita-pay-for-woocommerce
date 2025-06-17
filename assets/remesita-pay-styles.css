@@ -1,0 +1,11 @@
+[for="payment_method_remesita-pay"] img {
+    float: right;
+    max-height: 50px; 
+    z-index: 1;
+}
+.payment_box.payment_method_remesita-pay {
+   margin-top: 26px !important;
+}
+.payment_box{
+    border-radius: 4px;
+}

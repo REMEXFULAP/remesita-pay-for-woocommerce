@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Remesita Pay Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 07:14+0000\n"
+"PO-Revision-Date: 2024-01-01 07:29+0000\n"
+"Last-Translator: REMEXFULAP LABS <info@remesita.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgid "Remesita Pay"
+msgstr "Remesita Pay"
+ 
+msgid " Permite pagos con Remesita."
+msgstr "Allows payments with Remesita."
+
+ 
+msgid " Habilitar/Desabilitar"
+msgstr "Enable/Disable"
+
+ 
+msgid " Habilitar Remesita Pay"
+msgstr "Enable/Disable Remesita Pay"
+
+msgid "Acepta pagos con tu cuenta RemesitaPay."
+msgstr "Accept payments with your RemesitaPay account."
+
+msgid "Habilita pagos con RemesitaPay"
+msgstr "Enable payments with RemesitaPay"
+
+msgid "Este es el título que ve tu cliente al seleccionar la forma de pago."
+msgstr "This is the title your customer sees when selecting the payment method."
+
+msgid "Descripción"
+msgstr "Description"
+
+msgid "Descripción de la forma de pago presentada al cliente."
+msgstr "Description of the payment method presented to the customer."
+
+msgid "Paga con tu cuenta Remesita."
+msgstr "Pay with your Remesita account."
+
+msgid "ID de negocio en Remesita"
+msgstr "Business ID in Remesita"
+
+msgid "Almacenar logs de los Webhook"
+msgstr "Store logs of the Webhook"
+
+msgid "Activa esta casilla y en cada pedido se almacenará como nota el Payload de los Webhook enviados por Remesita en segundo plano."
+msgstr "Check this box and in each order the Payload of the Webhook sent by Remesita in the background will be stored as a note."
+
+msgid "Activa modo de pruebas y testea tu integración."
+msgstr "Enable test mode and test your integration."
+
+msgid "Simula un pago completado con la tarjeta:"
+msgstr "Simulate a completed payment with the card:"
+
+msgid "Simula un pago cancelado con la tarjeta:"
+msgstr "Simulate a canceled payment with the card:"
+
+msgid "Ten en cuenta que en modo prueba no se aceptan pagos reales y viceversa."
+msgstr "Keep in mind that in test mode real payments are not accepted and vice versa."
+
+msgid "Link de pago generado"
+msgstr "Generated payment link"
+
+
+msgid "Esperando pago"
+msgstr "Waiting for payment"
+
+msgid "Error generando el link de pago. Inténtelo luego."
+msgstr "Error generating the payment link. Try again later."
+
+
+msgid "No fue posible conectar con Remesita.com."
+msgstr "It was not possible to connect to Remesita.com."
+ 
+msgid "Error generando link de pago"
+msgstr "Error generating payment link"
+
+msgid "Este hash se usará como parate de la url de callback a donde remesita enviará la data de el pago en segundo plano."
+msgstr "This hash will be used as part of the callback url where Remesita will send the payment data in the background."
+
+msgid "La sesión de pago ha sido iniciada en Remesita."
+msgstr "The payment session has been started in Remesita."
+
+msgid "El pago se ha capturado."
+msgstr "The payment has been captured."
+
+msgid "Pago exitoso recibido a través de IPN."
+msgstr "Successful payment received through IPN."
+
+msgid "Datos del Pagador"
+msgstr "Payer's Data"
+
+msgid "El pago se ecnuentra en revisión."
+msgstr "The payment is under review."
+
+msgid "El pago se encuentra en revision en Remesita."
+msgstr "The payment is under review at Remesita."
+
+msgid "El pago se ha completado."
+msgstr "The payment has been completed."
+
+msgid "Los fondos han sido liquidados a la cuenta Remesita del Negocio."
+msgstr "The funds have been settled to the Business's Remesita account."
+
+msgid "El pago ha sido cancelado."
+msgstr "The payment has been canceled."
+
+msgid "está habilitado y WooCommerce no fuerza el certificado SSL en su página de pago. Asegúrese de tener un certificado SSL válido y de"
+msgstr "is enabled and WooCommerce does not force the SSL certificate on its payment page. Make sure you have a valid SSL certificate and"
+
+msgid "forzar la seguridad de las páginas de pago."
+msgstr "force the security of the payment pages."
+
+msgid "No tienes permisos suficientes para acceder a esta página."
+msgstr "You do not have sufficient permissions to access this page."
+
+msgid "Ajustes de Remesita Pay"
+msgstr "Remesita Pay Settings"
+
+msgid "%1$s Orden No %2$d con %3$d artículos"
+msgstr "%s Order No%d with %d items"
+
+msgid "Modo de depuración"
+msgstr "Debug mode"
+
+msgid " "
+msgstr " "
+
+msgid "Datos de Integración"
+msgstr "Integration Data"
+
+msgid "Prueba tu integración"
+msgstr "Test your integration"
+
+msgid "Prueba tu integración con Remesita Pay"
+msgstr "Test your integration with Remesita Pay"
+
+msgid "Pedido no encontrado"
+msgstr "Order not found"
+
+msgid "No se encontró referencia de pago para este pedido"
+msgstr "Payment reference for this order not found"
+
+msgid "Error al autenticar con Remesita"
+msgstr "Error authenticating with Remesita"
+
+msgid "Error al procesar reembolso"
+msgstr "Error processing refund"
+
+msgid "Reembolso procesado por %s. Referencia: %s"
+msgstr "Refund processed by %s. Reference: %s"
+
+msgid "Error desconocido al procesar reembolso"
+msgstr "Unknown error processing refund"
