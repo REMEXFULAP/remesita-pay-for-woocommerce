@@ -51,7 +51,7 @@ A continuación se muestran capturas de pantalla del plugin en acción:
 
 ### 2. Pantalla de pago en la plataforma Remesita
 
-![Pago Remesita](assets/pago-remesita.png)
+![Pago Remesita](assets/redirect-gateway.png)
 
 > **Nota:** Guarda las imágenes proporcionadas en la carpeta `assets/` con los nombres `checkout-remesita.png` y `pago-remesita.png` para que se muestren correctamente en la documentación.
 
